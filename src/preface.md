@@ -1,0 +1,13 @@
+# Preface
+
+Popular wisdom says a man has a complete life when he plants a tree, writes a book, and has a child. I think this sentence must be analysed in a more abstract way. When we plant a tree, we care about our environment. When we have a child, we love unconditionally. By writing a book, we share and endorse knowledge.
+
+Recently, I've read a book written by the Brazilian professor Mario Sergio Cortella ("Pensar bem nos faz bem!"). He argues that books were the first distance education platform. I think this definition is awesome! I've taught courses for many years, and the distance ones have far-reaching use. Books do indeed have this power.
+
+Writers also attract me. It seems too difficult to write something good without being an expert. Computer science is a subject that changes a lot. So, being an expert requires hard and continuous work. I do not know how expert I am, but I decided to publish this book when I realized my notes deserved to be shared. In fact, I even do not know whether this subject is exhausted, but it is already worth reading.
+
+In my classes, I use metaphors a lot. They are a wonderful learning resource since any complex idea can be depicted using basic notions from a student point of view. In 2012, I attended an international conference where I met professor Mary Lynn Manns. She gave me her book called [Pedagogical Patterns](http://www.pedagogicalpatterns.org "Title"). This book has a collection of pedagogical patterns selected by professors all around the world. (*Consistent Metaphor*) is a metaphor presented in this book, and it made me feel happy because I had never thought about a theory behind what I did naturally. This book has a collection of metaphors for programming learners and teachers. We adopt kitchens as an environment for creating these metaphors.
+
+We looked forward to similar approaches to ours. Three related ideas were found: (i) a video lecture made by professor Tanzeela Ali, from Superior University in Pakistan, entitled "From Psychology to Logic - Learning Computer Programming in the Kitchen"](https://www.youtube.com/watch?v=Ya3fjj3ewUU); (ii) a website with metaphors for web programming ["Code Analogies"](https://www.codeanalogies.com/); (iii) a video lecture made by Gabriel Froes and Vanessa Weber entitled ["Programando na Cozinha"](https://www.youtube.com/watch?v=UcXpOcF-T6k) which relates cooking and programming activities. Although the last video is just a guide to cooking a recipe, the video's description contains the recipe written in PHP (a language for web page creation, like the page in our book).
+
+In this book, a developer is a chef who knows ordinary and extraordinary recipes, such that he can invent his own. Bon appétit, i.e., enjoy programming!

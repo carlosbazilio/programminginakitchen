@@ -1,0 +1,15 @@
+[book]
+authors = ["bazilio"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Programming in a Kitchen"
+
+[output.html]
+theme = "rust"
+fold.enable = true
+fold.level = 0
+git-repository-url = "https://github.com/carlosbazilio/programminginakitchen"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/carlosbazilio/programminginakitchen/edit/main/{path}"
+site-url = "/programminginakitchen/"
