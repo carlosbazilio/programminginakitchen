@@ -1,12 +1,12 @@
 # Introduction
 
-![](/assets/cozinha.jpeg)
+![](assets/cozinha.jpeg)
 
 In this book, we present **programming** concepts regarding **cooking** tasks. Readers are not supposed to be chefs in order to understand the concepts presented. Metaphors are used to explain these concepts easily. The discussed concepts range from basic to advanced. Last requires some programming experience.
 
 Before presenting programming concepts, we define some basic metaphors regarding computers, like hardware components. In fact, these metaphors apply to many electronic devices, like mobile phones, tables, robots, microwaves, etc.
 
-<img src="/assets/computational-system.jpg" width="640"/>
+<img src="assets/computational-system.jpg" width="640"/>
 
 In this picture, **Processor** is the system's brain, where all processing is controlled. Although it has processing power and speed, it would be useless alone. Then we have the other 4 blocks in the picture: the **Memory**, the **Input**, **Output** and **Storage** devices.
 
@@ -20,13 +20,13 @@ Below, we present metaphors associating those concepts with kitchens.
 
 ## Computer
 
-<img src="/assets/cozinha.jpeg" width="320"/> <img src="/assets/computador.jpeg" width="320"/>
+<img src="assets/cozinha.jpeg" width="320"/> <img src="/assets/computador.jpeg" width="320"/>
 
 A **kitchen** is related to a **computer**. A computer runs programs as long as kitchens are used to prepare meals. A person uses a computer in order to automate tasks required by another person or company. Meals are prepared when there are hungry clients.
 
 ## Main Memory
 
-<img src="/assets/bancada.jpeg" width="320"/> <img src="/assets/memoria.jpeg" width="320"/>
+<img src="assets/bancada.jpeg" width="320"/> <img src="assets/memoria.jpeg" width="320"/>
 
 Since kitchens are related to computers, in order to completely describe the metaphor, each cooking utensil should be related to a computer component. For instance, **sinks** and **stands** are computer main memory. Both are used to store things (food or data) for a short period of time. Cooking utensils, ingredients, and recipes are stored for faster cooking.
 
@@ -36,35 +36,35 @@ When the space available at sinks and stands is not enough, an extra space must 
 
 ## Secondary Memory
 
-<img src="/assets/geladeira.jpg" width="320"/> <img src="/assets/hd.jpeg" width="320"/>
+<img src="assets/geladeira.jpg" width="320"/> <img src="assets/hd.jpeg" width="320"/>
 
 In order to prepare many recipes, the kitchen must contain enough space to store food and kitchenware. Secondary memories are **cabinets**, **fridges** and **freezers** since they can store many items for a long period of time.
 
 ## Processor
 
-<img src="/assets/fogao.jpeg" width="320"/> <img src="/assets/cpu.jpeg" width="320"/>
+<img src="assets/fogao.jpeg" width="320"/> <img src="assets/cpu.jpeg" width="320"/>
 
 **Stoves**, **ovens**, and **microwaves** are our processors. They are crucial for preparing recipes. In the kitchen, they differ in speed, power consumption, etc. The same happens with processors in computers.
 
 ## Architecture
 
-<img src="/assets/cozinha-projeto.jpeg" width="320"/> <img src="/assets/computador-arquitetura.jpeg" width="320"/>
+<img src="assets/cozinha-projeto.jpeg" width="320"/> <img src="assets/computador-arquitetura.jpeg" width="320"/>
 
 An **architect** plans a kitchen in order to be best used. So usually the sink is close to the stand, the stand is close to the stove, and so on. In Computing, a **hardware architect** also plans a computer in order to be best used. So **memory**, **processors**, and **secondary memory** are located in order to maximize their efficiency.
 
 ## Programmer
 
-<img src="/assets/cozinheiros.jpg" width="320"/> <img src="/assets/programadoras.jpg" width="320"/>
+<img src="assets/cozinheiros.jpg" width="320"/> <img src="assets/programadoras.jpg" width="320"/>
 
 Recipes are created by **chefs** and cooked by cooks. Chefs use their experience to combine different foods in a special or unique way. But those foods can be combined in many other ways. The same happens with programming. A problem can be solved algorithmically in many different ways.
 
-<img src="/assets/robo.jpg" width="640"/>
+<img src="assets/robo.jpg" width="640"/>
 
 **Cooks** follow exactly what recipes say. This process is made step-by-step following recipe ordering. Sometimes some ingredient is missing, and the chef may replace it with another, trying to simulate the missing one or giving it a personal touch. In Computing, cooks are **interpreters** of a programming language. They process recipes written in a particular programming language. Unlike cooks, interpreters do not improvise when something is missing. Everything must be ready to be processed.
 
 ## Operational System
 
-<img src="/assets/cozinha-industrial.jpg" width="640"/>
+<img src="assets/cozinha-industrial.jpg" width="640"/>
 
 An industrial kitchen requires many more items to be delivered without delay. Cook assistants help cooks prepare plates as fast as possible. They locate food in the cabinets, clean the stand, control the stove temperature, etc. In Computing, assistant's tasks are made by **Operating Systems**. They help interpreters execute what programs are designed for.
 
