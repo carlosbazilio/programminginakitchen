@@ -1,6 +1,6 @@
 ## Ponteiros
 
-![](/assets/ponteiros.jpg)
+![](../assets/ponteiros.jpg)
 
 Considere uma cozinha comercial que ofereça serviço de quentinhas, as quais são pratos de refeições completos servidos a empregados e fornecidos usualmente em pratos de alumínio descartável. Suponha que a quantidade de pedidos varie bastante ao longo dos dias e que os recipientes (porta-quentinhas que armazenam os pratos de alumínio) utilizados para acondicionamento das quentinhas não são baratos. O comerciante decide por alugar estes recipientes sob demanda, ou seja, à medida que pedidos são solicitados ele aluga recipientes na mesma proporção. Os aluguéis são diários e é fundamental que o comerciante solicite a retirada destes recipientes para que não seja computado um novo aluguel. Ao longo do dia, a cozinha pode reutilizar tantas vezes quanto quiser um recipiente. 
 

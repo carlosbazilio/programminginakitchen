@@ -1,6 +1,6 @@
 ## Banco de Dados
 
-![](/assets/bd.jpg)
+![](../assets/bd.jpg)
 
 Um sistema de gerenciamento de banco de dados pode ser visto como um robô cuja função básica é guardar e recuperar ingredientes, ou partes de uma receita, para o preparo completo desta. Como as cozinhas tem distribuição de espaços diferentes, assim como suas mobílias, é necessário que este robô seja programado para trabalhar em um leiaute específico. Ou seja, um sistema de gerenciamento de banco de dados pode ser considerado uma ferramenta programada de suporte à execução de outros programas.
 

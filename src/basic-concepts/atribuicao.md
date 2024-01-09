@@ -1,18 +1,17 @@
-## Atribuição 
+## Assignment 
 
-![](/assets/atribuicao.jpeg)
+![](../assets/atribuicao.jpeg)
 
-A atribuição na programação ocorre quando uma variável recebe o conteúdo existente em outra variável. Na cozinha isto ocorre quando colocamos o conteúdo de um recipiente em outro. Apesar da analogia aparentemente ser perfeita, há uma diferença que não é desprezível: na programação, quando atribuímos, fazemos uma cópia do conteúdo de uma variável para outra; na culinária, quando um recipiente recebe o conteúdo de outro, este último fica vazio. Essa cópia tem custo irrelevante se comparado ao custo de se duplicar um preparo na cozinha. 
+Assignment is a computer programming operation that assigns a value to a variable (something that has a noun and an associated value). In the kitchen, a similar operation occurs when we fill a bowl with something like water or milk. This metaphor is not as perfect as we would like it to be. In computer programming, an assignment is a copy of a value from one place to another. In the kitchen, when we fill a bowl, we may be draining out another. In the kitchen, a copy of food is expensive. In computer programming, it is costless.
 
-Exemplo na cozinha:
+In the kitchen, we could have:
 
 ~~~~~~~~
-    vasilhame <- farinha, leite, ovos, açúcar 
-    mistura (vasilhame) 
-    tabuleiro <- vasilhame
+    1: bowl <- flour, milk, eggs, sugar 
+    2: mix (bowl) 
+    3: tray <- bowl
 ~~~~~~~~
 
-No exemplo acima, tanto na linha 1 quanto na linha 3 temos atribuições acontecendo.
+In the example above, the assignment operations occur at lines 1 and 3.
 
-Baseado numa sugestão de um aluno, supondo que o conteúdo de um recipiente seja muito quente ou muito frio, o ato de despejá-lo em outro recipiente faz com que este novo recipiente tenha a mesma **temperatura** do recipiente que continha o conteúdo (desprezando algumas propriedades físicas de trocas de calor). Ou seja, a temperatura é uma característica compatilhada entre vasilhames, assim como a atribuição de variáveis na Programação.
-
+Based on a suggestion from my student, we could change the metaphor and think about the temperature of food. When we fill a bowl with hot water from another bowl, for a moment, they will share the same temperature. This replication is exactly what happens when we do an assignment in computer programming.

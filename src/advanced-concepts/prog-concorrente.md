@@ -1,6 +1,6 @@
 ## Programação Concorrente
 
-![](/assets/prog-concorrente.jpeg)
+![](../assets/prog-concorrente.jpeg)
 
 A programação concorrente permite que possamos identificar num programa trechos de códigos independentes, os quais poderiam executar em qualquer ordem. Isso permite, por exemplo, que consigamos executar o programa mais rapidamente processando estes trechos independentes simultaneamente. Essa aceleração costuma ser diminuída quando estes trechos precisam compartilhar algum recurso. 
 

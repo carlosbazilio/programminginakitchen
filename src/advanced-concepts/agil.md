@@ -1,6 +1,6 @@
 ## Desenvolvimento Ágil
 
-![](/assets/agil.jpg)
+![](../assets/agil.jpg)
 
 A Engenharia de Software é uma subárea da Computação responsável por criar métodos, processos e metodologias que visam a criação de softwares de qualidade e de forma eficiente. Formas diferentes de criar um software, suas implicações, a participação dos clientes, a divisão em etapas, dentre outras atividades, são decisões tomadas nesta área. Apesar da tarefa de criar um software ser muito mais complexa que a elaboração e preparo de uma receita, uma analogia provável é analisarmos os fundamentos que baseiam um curso de Culinária.
 

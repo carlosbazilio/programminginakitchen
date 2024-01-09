@@ -1,6 +1,6 @@
 ## Programação Móvel
 
-![](/assets/prog-movel.jpg)
+![](../assets/prog-movel.jpg)
 
 Programar para dispositivos móveis é como cozinhar para crianças. A essência é a mesma, mas com algumas restrições. Por exemplo, pratos infantis normalmente não levam álcool ou alimentos muito gordurosos no preparo. Os organismos das crianças, principalmente as bem pequenas, ainda estão em fase de crescimento e não conseguem digerir grandes quantidades de alimentos. Além disso, os pratos das crianças costumam ser decorados de forma a serem atraentes para o público alvo.
 

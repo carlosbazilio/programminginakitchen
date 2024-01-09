@@ -1,5 +1,5 @@
-## Arquivos 
+## Files 
 
-![](/assets/arquivos.jpg)
+![](../assets/arquivos.jpg)
 
-Arquivos podem ser vistos como alimentos prontos, semiprontos ou até crus, que são armazenados para serem usados num momento futuro, em outras receitas ou até na mesma, caso esta leve muito tempo para ficar pronta, por exemplo. A possibilidade deste armazenamento permite que receitas demoradas possam ser preparadas em partes, sem que nada estrague neste processo. Como vimos no capítulo anterior, geladeiras, armários e freezers são nossa memória secundária na cozinha. Nestas o que armazenamos são os alimentos que serão ingredientes das receitas ou partes de uma receita sendo preparada. 
+Files can be seen as food that is already prepared, semi-prepared, or even crude. It can be used in many different ways. It can be stored for later use. It can be combined to create a new one. Such features allow a long preparation to be reused instantly. In the introduction, we saw that refrigerators, food pantries, and freezers are the secondary memories. In these memories, we store files to be used later for other recipes.

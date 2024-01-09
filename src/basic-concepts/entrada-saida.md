@@ -1,6 +1,6 @@
 ## Entrada/Saída 
 
-![](/assets/pexels-photo-313700s.jpeg)
+![](../assets/pexels-photo-313700s.jpeg)
 
 ~~~~~~~~
 Analogia:

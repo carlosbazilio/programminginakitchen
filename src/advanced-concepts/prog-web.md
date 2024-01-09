@@ -1,6 +1,6 @@
 ## Programação Web
 
-![](/assets/prog-web.jpeg)
+![](../assets/prog-web.jpeg)
 
 A programação para web pode ser associada a uma cozinha que funciona para serviço de entrega. Na programação web o cliente consome o prato fora do restaurante, como num serviço de entrega. Isso traz alguns bnefícios para o cliente, como o fato de poder consumir seu alimento onde quiser, bastando que este tenha um telefone para solicitá-lo. Na programação web, o que é essencial para um cliente é ter uma conexão a web e um navegador. Num restaurante convencional, o cliente deve se deslocar até este para fazer sua refeição. Na programação, isso é equivalente a instalar um software para poder utilizá-lo. Questões como ir de taxi, à pé, em transporte coletivo, se está chovendo no dia, trânsito, podem ser associadas às complicações de se instalar um software, como versão disponível para um Sistema Operacional específico, download do software, independente do seu tamanho, etc.
 

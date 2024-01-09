@@ -1,7 +1,5 @@
-## Abstração
+## Abstraction
 
 ![](../assets/abstracao.jpg)
 
-Na programação, fazemos uso da abstração quando utilizamos recursos simples para descrever cenários complexos. Na culinária, encontramos uso da abstração quando uma receita contém uma etapa descrita em apenas uma frase, mas que tomará vários passos para ser feita. Por exemplo, numa receita de pudim encontrei a seguinte etapa: "Com o açúcar prepare um caramelo claro". Esta etapa pode ser descrita como colocar o açúcar no fogo, misturá-lo sem parar até que fique com uma consistência pastosa.
-Ou seja, o cozinheiro que escreveu a receita abstraiu a complexidade da etapa a ser realizada. Este mecanismo é muito importante para tornar mais sucintas, porém igualmente expressivas, as receitas e os programas.
-
+In computer programming, we use abstraction when we desire to simplify the description of a complex scenario. In the recipe, abstraction is used when a single step requires a lot of small steps to be concluded. For instance, in a milk pudding recipe, I found: "Prepare a light caramel with sugar.". This step may be described as heating the sugar and mixing until it gets a pasty consistency. So, the chef who wrote the recipe abstracted the complexity of the step. This mechanism is important for shortening the size of programs and recipes.

@@ -1,6 +1,6 @@
 ## Recursão
 
-![](/assets/recursao.jpg)
+![](../assets/recursao.jpg)
 
 Considere o preparo de uma gelatina. Esta seguirá uma sequência de passos como qualquer outra receita. Se imaginarmos um bolo que tem uma camada de sorvete ou massa (farinha) e outra de gelatina, cada destas camadas pode ser tratada por uma rotina separada. A combinação da chamada destas rotinas é o preparo do bolo desejado. 
 

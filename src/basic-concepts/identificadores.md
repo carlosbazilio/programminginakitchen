@@ -1,6 +1,6 @@
 ## Identificadores
 
-![](/assets/panelas.jpeg)
+![](../assets/panelas.jpeg)
 
 ~~~~~~~~
 Analogia:
