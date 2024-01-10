@@ -14,4 +14,4 @@ In the kitchen, we could have:
 
 In the example above, the assignment operations occur at lines 1 and 3.
 
-Based on a suggestion from my student, we could change the metaphor and think about the temperature of food. When we fill a bowl with hot water from another bowl, for a moment, they will share the same temperature. This replication is exactly what happens when we do an assignment in computer programming.
+Based on a suggestion from my student, we could change the metaphor and think about the **temperature** of food. When we fill a bowl with hot water from another bowl, for a moment, they will share the same temperature. This replication is exactly what happens when we do an assignment in computer programming.

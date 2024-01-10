@@ -1,20 +1,20 @@
-## Estruturas de controle
+## Control Flow
 
 ![](../assets/controle.jpg)
 
-São operações utilizadas para se alterar o fluxo de operações sequencial padrão, onde um comando é executado após o outro. As estruturas de controle criam fluxos alternativos, os quais podem ser seguidos em função dos valores de variáveis. Na cozinha, estas operações são usadas frequentemente para se verificar o cozimento de alimentos, consistência das massas num preparo (ponto), tempo de assado, dentre outros.
+In computer programming, control flow commands are operations used to modify the order of execution of commands in a program. This flexibility allows the construction of more powerful computer programs since many tasks can be performed using the same program. In the kitchen, similar operations are required when cooking meat, for instance. We have to check from time to time whether we desire rare, medium, or well-done meat. Repetitive task of checking the meat could be expressed by a single operation that repeats until the desired state is reached, regardless of the time it takes.
 
-Exemplo na cozinha:
-
-~~~~~~~~
-    Misturar ate que se forme uma calda 
-~~~~~~~~
-
-ou
+In the kitchen, we could have:
 
 ~~~~~~~~
-    Enquanto consistencia liquida 
-        Misturar 
+    Mix until a syrup is made.
 ~~~~~~~~
 
-Neste exemplo, a operação de mistura ocorre até que uma situação ocorra. Neste caso, a situação é o líquido passar a ter uma consistência em calda. 
+or
+
+~~~~~~~~
+    While the consistency is liquid 
+        Mix
+~~~~~~~~
+
+In these examples, the mixing operation runs until a situation occurs. 

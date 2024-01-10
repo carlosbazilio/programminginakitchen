@@ -1,15 +1,15 @@
-## Conversão de Tipos - Casting
+## Type conversion - Casting
 
 ![](../assets/casting.jpeg)
 
-Propriedade que permite que um valor de um tipo (ingrediente) seja "convertido" em outro. Por exemplo, quando um número real é atribuído a um inteiro, apenas a parte inteira é armazenada neste último. Analogamente, quando lavamos o arroz, um vasilhame contém a água e o arroz. Quando usamos uma peneira para secá-lo, o novo vasilhame conterá apenas o arroz. Há diversas outras situações onde ocorre um casting na cozinha: alimentos antes e após serem descascados, a criação de cubos de arroz após este ser preparado, os enfeites feitos com frutas, verduras e legumes para embelezar pratos e mesas, dentre outros. Observem que em todas as situações o ingrediente que está sendo manipulado é praticamente o mesmo, foi apenas modificado para atender a um fim específico.
+This operation allows the value of a given type (an ingredient) to be converted into another one. For instance, when a real number is assigned to an integer, just the integral part is assigned. In the kitchen, when we wash some rice, a bowl contains the rice and the water. When we pass this content through a strainer, we get the rice, removing the dirt as a result. There are many more situations where this conversion happens in the kitchen: when peeling some food, when creating cubes of rice after its preparation, when making ornaments after food preparation, etc.
 
-Exemplo na cozinha:
+In the kitchen, we could have:
 
 ~~~~~~~~
-vasilhame <- farinha peneirada 
+bowl <- sifted flour 
 
-canecão <- suco de maracujá cuado 
+mug <- strained passion fruit juice 
 ~~~~~~~~
 
-Nos exemplos acima, o ato de peneirar a farinha ou cuar um suco não modificam os alimentos por completo, mas alteram estes de maneira que fiquem mais adequados para algum uso.
+So, in all situations, the food is the same. It was just adapted to be used in a particular way.

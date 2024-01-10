@@ -1,12 +1,13 @@
-## Entrada/Saída 
+## Input and Output
 
 ![](../assets/pexels-photo-313700s.jpeg)
 
 ~~~~~~~~
-Analogia:
+Metaphor:
 
-Entrada: Pedido
-Saída: Prato elaborado
+Input: Order
+Output: Prepared dish of the day
 ~~~~~~~~
 
-Comandos de entrada e saída são fundamentais por permitirem a criação de programas interativos. No nosso dia à dia, essa interação é crucial para que consigamos utilizar bem máquinas programadas. Não há como se pensar, por exemplo, num caixa automático bancário que não tenha tela e teclas para enviarmos comandos a serem processados, ou a impressora que emite o resultado do extrato solicitado. Na cozinha de um restaurante, um pedido, juntamente com os ingredientes necessários para o seu preparo, são considerados os dados de entrada. O prato resultante do pedido, juntamente com adereços como bandejas, arranjos e outros artifícios para embelezar o prato, representam a saída. Apesar da parte fundamental deste processo ser o preparo, assim como o execução de programas num computador, a entrada e saída são fundamentais para que o preparo e a execução sejam utilizadas.
+In computer programming, input and output operations are essential for creating interactive computer programs. For instance, we cannot imagine how an ATM could work without asking for identification, passwords, showing available balances, returning money, and so on. In the kitchen, an order and the required ingredients to prepare it are regarded as input data. The plate prepared, like the dish of the day, is the output. Although recipe preparation is the most important part of this process, like the execution of a computer program, input and output are fundamental for providing the inputs and consuming the outputs.
+
