@@ -1,11 +1,11 @@
-## Identificadores
+## Identifiers
 
 ![](../assets/panelas.jpeg)
 
 ~~~~~~~~
-Analogia:
+Metaphor:
 
-Identificadores: Utensílios específicos
+Identifiers: Named utensils
 ~~~~~~~~
 
-Na programação, a tudo podem ser dados nomes, os quais são fundamentais para se identificar e referenciar recursos num programa. Na cozinha, quando nos referimos a tamanhos de potes diferentes (pequeno, médio e grande), indiretamente estamos identificando estes potes. Se tivermos muitos potes, é provável que queiramos atribuir nomes mais únicos, de forma a distingui-los bem. Seria como se todos os utensílios tivessem nomes: uma panela chamada "velhinha" com capacidade de 2 litros, um tabuleiro chamado "de sempre" com dimensões 50x20x5, etc. Na programação, há restrições quanto ao formato e os possíveis valores de identificadores. Usualmente estes são palavras cujo significado costuma se referir ao valor que este representa. Isso é fundamental para que não haja confusão na interpretação. Por exemplo, na nossa cozinha, imagine que chamemos uma frigideira de "abóbora". Se dizemos, "coloque o recheio preparado na abóbora", necessariamente nos confundiríamos no preparo desta receita. O mesmo vale para os computadores em relação a programas. Ou seja, apesar dos identificadores servirem apenas de auxílio para nos referirmos a utensílios, seja numa receita ou num programa, a definição e uso adequado são cruciais para não gerarmos confusão e comprometermos a sua utilização.
+In computer programming, everything may have a name, which is a shortcut for finding such things. In the kitchen, when we regard a pot as small, medium, or big, we are assigning it a kind of name. If we have a lot of them, we must use any other feature, like the colour, whether it is old or new. This task of locating a particular utensil could be precise if we assigned a distinct name to each utensil. And why should it be precise? Because when we prepare a recipe, ingredients are precisely combined. As they are probably stored in kitchen utensils, we must combine them in the way the recipe defines them. That's why kitchen utensils must be precisely defined. The same happens in computer programming.

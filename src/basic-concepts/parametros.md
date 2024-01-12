@@ -1,7 +1,7 @@
-## Parâmetros / Argumentos
+## Parameters / Arguments
 
 ![](../assets/parametros.jpg)
 
-Toda receita listada num livro de receitas possui uma porção resultante, a qual indica para quantas pessoas este preparo atenderá. Esta quantidade sempre está ligada à quantidade de ingredientes utilizados, os quais são informados e usualmente podem ser alterados de forma proporcional. Por exemplo, se uma receita leva 1 litro de leite, 2 ovos, 500gr. de farinha e serve 4 pessoas, geralmente podemos prepará-la para 2 pessoas fornecendo metade dos ingredientes. Os ingredientes, neste caso, são chamados de parâmetros e/ou argumentos[^params] na programação. Todas as receitas possuem esta característica, ou seja, podemos dizer que todas as receitas são parametrizadas. Essa característica existe tanto para uma receita como um todo quanto para partes de preparo internas a uma receita (subreceita).
+Every recipe indicates how many people it serves. This amount is related to the number of ingredients used. If we want to prepare this recipe for a different number of people, most of the time we just have to change the quantities proportionally. These values are called parameters or arguments[^params] of the recipe. In computer programming, the same happens. Programs have parameters, which means that the same program can produce different results depending on the input values.
 
-[^params]: Diferenciando tecnicamente, **argumentos** são os valores a serem passados para uma função, enquanto que **parâmetros** são os nomes das variáveis nas funções que receberão os valores passados.
+[^params]: Regarding math or computer programming functions, **arguments** are the values used when calling a function, whereas **parameters** are the identifiers a function uses to receive the passed values.
