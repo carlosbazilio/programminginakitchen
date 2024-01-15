@@ -2,7 +2,6 @@
 
 ![](../assets/recursao.jpg)
 
-Considere o preparo de uma gelatina. Esta seguirá uma sequência de passos como qualquer outra receita. Se imaginarmos um bolo que tem uma camada de sorvete ou massa (farinha) e outra de gelatina, cada destas camadas pode ser tratada por uma rotina separada. A combinação da chamada destas rotinas é o preparo do bolo desejado. 
+Imagine we want to prepare gelatin. We need to follow a sequence of steps in order to prepare the recipe. If you've never prepared one, it's quite simple. First, we mix some powdered gelatin with a portion of hot water. Then, we add some cold water and put it into the fridge or freeze it to toughen up.
 
-Agora considere que queiramos preparar um bolo de camadas coloridas de gelatina. Se nunca preparou uma gelatina, saiba que esta é preparada com água quente, que depois de uma mistura vai para a geladeira para endurecer. Como queremos várias camadas coloridas, teremos que preparar uma camada por vez, de forma a evitar que as camadas se misturem. Empilhamos cada novo preparo sobre as camadas já feitas, as quais devem estar prontas (endurecidas). Preparamos novas camadas até uma situação limite (situação de parada), como o limite da forma disponível. Recursão na Computação é exatamente esse processo de uma mesma rotina ser chamada em sequência até que uma condição seja satisfeita.
-
+Imagine we want to prepare a gelatin cake. For instance, this cake must have five layers of gelatin with different flavours and colors. What we have to do is repeat the process above five times. Of course, we can prepare a cake with three or ten layers since the process is the same. In computer programming, this is called recursion. We repeat (recur) one routine as many times as we want to prepare a recipe.
